@@ -19,8 +19,8 @@ export default function Home() {
           priority
         />
       </div>
-      <div className="md:text-xl text-3xl">Proyecto Bulle</div>
-      <div className="md:text-sm text-2xl">Av Sta Fe 546</div>
+      <div className="md:text-xl text-2xl">Proyecto Bulle</div>
+      <div className="md:text-sm text-xl">Av Sta Fe 546</div>
 
     </main>
   );
